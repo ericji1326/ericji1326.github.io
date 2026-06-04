@@ -3,6 +3,8 @@
 A terminal-themed personal portfolio that behaves like a real shell. Zero build:
 plain HTML, CSS, and vanilla JavaScript, served directly by GitHub Pages.
 
+Entire built with Claude Opus 4.8 with 1M context :)
+
 ## Preview locally
 
 Open `index.html` directly in a browser, or run a static server:
